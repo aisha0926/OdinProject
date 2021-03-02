@@ -46,8 +46,8 @@ a{
     position: absolute;
     width: 100%;
     bottom: 1px;
-    margin-left: 0px;
-    background-color: rgb(238, 238, 238);
+    padding: 1px 10px;
+    background-color: #f2f2f2;
 }
 
 .bottom-left{
